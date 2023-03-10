@@ -17,3 +17,6 @@
 |SLUS-00860| Tony Hawk's Pro Skater | US | Playable | 2022-1-25 | Graphical glitches occur throughout menus (Main Menu, Pause, etc.) |
 |SLPM-86272| Rakugaki Showtime | JP | Playable | 2022-5-17 | Graphical glitches in menus and gameplay. |
 |SCES-02873| Vib-Ribbon | EU | Menu | 2022-06-22| When pressing Game or How To Play, The loading screen pops up and it appears to be loading. Then it freezes. The only option that is working is Language.|
+|SLUS-01109| Vanishing Point | US | Playable | 2023-3-10 | 
+|SCUS-94351| Wipeout XL | US | Playable | 2023-3-10 |
+|SCUS-94240| Syphon Filter | US | Menu | 2023-3-10 | When trying to press New Game, The game gets stuck on an infinite loading screen. The training video works however.
